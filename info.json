@@ -2,7 +2,7 @@
 	"provider": ["IBM"], 
 	"name":  "DO for DSX Complex Project Scheduling example" ,
 	"model": [ "CPLEX" ],
-	"development": [ "Python" ],
+	"development": [ "Modeling Assistant" ],
 	"category": [ {"DOforDSX":["DO for DSX"]} ],
 	"industry": [ "Manufacturing" ],
 	"abstract": "Complex Project Scheduling."
