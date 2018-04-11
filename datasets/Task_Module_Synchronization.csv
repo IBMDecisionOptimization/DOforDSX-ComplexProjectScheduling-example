@@ -1,0 +1,7 @@
+Origin Task,Target Module,Description,Synchronization Type
+T687,Mod688,Mod688 StartsAfterEnd T687,StartsAfterEnd
+T684,Mod682,Mod682 StartsAfterEnd T684,StartsAfterEnd
+T685,Mod750,Mod750 EndsBeforeStart T685,EndsBeforeStart
+T685,Mod730,Mod730 EndsBeforeStart T685,EndsBeforeStart
+T685,Mod729,Mod729 EndsBeforeStart T685,EndsBeforeStart
+T685,Mod749,Mod749 EndsBeforeStart T685,EndsBeforeStart

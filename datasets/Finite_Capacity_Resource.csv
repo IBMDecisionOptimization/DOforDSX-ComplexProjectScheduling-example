@@ -1,0 +1,60 @@
+Id,Capacity,Long Name,Included In,Calendar
+FC92,2, Wing Trailing edge A Right (92),FC118,C1
+FC93,2, Wing Trailing edge E Right (93),FC118,C1
+FC94,2, Wing fuel tank Right B (94),FC139,C1
+FC95,2, Wing leading edge B Left (95),FC141,C1
+FC96,1, Engine mount Right (96),FC140,C1
+FC97,3, Crew Cockpit (97),FC148,C1
+FC98,2, Wing Trailing edge B Right (98),FC118,C1
+FC99,1, Cockpit Zone 3 (99),FC97,C1
+FC100,1, Cockpit Zone 1 (100),FC97,C1
+FC101,1, Wing tips Right (101),FC145,C1
+FC102,2, Soft underbelly K Left (102),FC136,C1
+FC103,6, Cargo holds (103),FC148,C1
+FC104,1, Passenger cabin Rear (104),FC147,C1
+FC105,1, Wing tip Left (105),FC149,C1
+FC106,2, Cargo hold 3 (106),FC103,C1
+FC107,2, Wing fuel tank Left A (107),FC150,C1
+FC108,2, Soft underbelly B Left (108),FC136,C1
+FC109,2, Aircraft Nose (109),FC146,C1
+FC110,1, Passenger cabin Front (110),FC147,C1
+FC111,8,Soft underbelly Central (111),FC136,C1
+FC112,1, Engine mount Left (112),FC142,C1
+FC113,2, Cargo hold 4 (113),FC103,C1
+FC114,2, Wing Trailing edge D Left (114),FC135,C1
+FC115,2, Wing Trailing edge A Left (115),FC135,C1
+FC116,2, Central Fuel tank C (116),FC151,C1
+FC117,2, Soft underbelly H Right (117),FC136,C1
+FC118,4, Wing Trailing edge Right (118),FC140,C1
+FC119,2, Wing leading edge A Left (119),FC141,C1
+FC120,2, Soft underbelly C Left (120),FC136,C1
+FC121,2, Wing fuel tank Right A (121),FC139,C1
+FC122,2, Wheel wells rear (122),FC146,C1
+FC123,2, Wing leading edge A Right (123),FC152,C1
+FC124,2, Soft underbelly F Right (124),FC136,C1
+FC125,2, Wing fuel tank Left B (125),FC150,C1
+FC126,2, Central Fuel tank B (126),FC151,C1
+FC127,1, Fin (127),FC146,C1
+FC128,2, Central Fuel Tank A (128),FC151,C1
+FC129,2, Cargo hold 1 (129),FC103,C1
+FC130,1, Cockpit Zone 2 (130),FC97,C1
+FC131,2, Soft underbelly A Right (131),FC136,C1
+FC132,2, Wing leading edge C Right (132),FC152,C1
+FC133,2, Wing leading edge C Left (133),FC141,C1
+FC134,2, Wing Trailing edge B Left (134),FC135,C1
+FC135,4, Wing Trailing edge Left (135),FC142,C1
+FC136,10, Soft underbelly (136),FC146,C1
+FC137,2, Wheel wells front (137),FC146,C1
+FC138,2, Wing leading edge B Right (138),FC152,C1
+FC139,0, Wing fuel tank Right (139),FC140,C1
+FC140,0, Right Wing (140),,C1
+FC141,0, Leading edge Left Wing (141),FC142,C1
+FC142,0, Left Wing (142),,C1
+FC145,0, Wing tips Right (145),FC140,C1
+FC146,0, Fuselage (146),,C1
+FC147,0, Passenger cabin (147),FC148,C1
+FC148,0, Interior (148),,C1
+FC149,0, Wing tips Left (149),FC142,C1
+FC150,0, Wing fuel tank Left (150),FC142,C1
+FC151,0, Central Fuel Tank (151),FC146,C1
+FC152,0, Leading edge Right Wing (152),FC140,C1

@@ -1,0 +1,34 @@
+[2018-04-11T12:10:45Z, INFO] * building wado model
+[2018-04-11T12:14:41Z, INFO] model building done in 235.581580877 secs
+[2018-04-11T12:14:41Z, INFO] * running wado model
+[2018-04-11T12:14:41Z, INFO] WARNING: Number of workers has been reduced to 1 to comply with platform limitations.
+[2018-04-11T12:14:45Z, INFO] stream:7:4: Warning: Reading file created by CP Optimizer version 12.7.0.0 into CP Optimizer version 12.8.0.0.
+[2018-04-11T12:14:45Z, INFO] stream:7:4: Warning: Making reader backward compatible with version 12.7.0.0.
+[2018-04-11T12:14:48Z, INFO]  ! ----------------------------------------------------------------------------
+[2018-04-11T12:14:48Z, INFO]  ! Minimization problem - 14887 variables, 44961 constraints
+[2018-04-11T12:14:48Z, INFO]  ! Presolve      : 31496 extractables eliminated, 5200 constraints generated
+[2018-04-11T12:14:48Z, INFO]  ! TimeLimit            = 60
+[2018-04-11T12:14:48Z, INFO]  ! Workers              = 1
+[2018-04-11T12:14:48Z, INFO]  ! Initial process time : 1.71s (1.70s extraction + 0.00s propagation)
+[2018-04-11T12:14:48Z, INFO]  !  . Log search space  : 13008.0 (before), 13008.0 (after)
+[2018-04-11T12:14:48Z, INFO]  !  . Memory usage      : 46.8 MB (before), 46.8 MB (after)
+[2018-04-11T12:14:48Z, INFO]  ! Using sequential search.
+[2018-04-11T12:14:48Z, INFO]  ! ----------------------------------------------------------------------------
+[2018-04-11T12:14:48Z, INFO]  !          Best Branches  Non-fixed            Branch decision
+[2018-04-11T12:14:48Z, INFO]                         0      14887                 -
+[2018-04-11T12:14:48Z, INFO]  + New bound is 0
+[2018-04-11T12:14:48Z, INFO]  ! Using temporal relaxation.
+[2018-04-11T12:14:48Z, INFO]                         0       4680                 -
+[2018-04-11T12:14:48Z, INFO]  + New bound is 670823
+[2018-04-11T12:14:49Z, INFO]                      2469       4680            on _ITV_14760
+[2018-04-11T12:14:49Z, INFO]  *     104000000     2469  2.23s               (gap is 99.35%)
+[2018-04-11T12:14:50Z, SEVERE] InterpreterError :   File "model.py", line 725, in <module>
+    solve_model(model)
+  File "<string>", line 651, in solve_model
+LocalSolverException: Nothing to read from local solver process. Process seems to have been stopped.
+
+Traceback (most recent call last):
+  File "/python_container/job/main.py", line 120, in <module>
+    raise InterpreterError(imsg)
+
+[2018-04-11T12:14:50Z, INFO] An exception has been raised: Nothing to read from local solver process. Process seems to have been stopped.
