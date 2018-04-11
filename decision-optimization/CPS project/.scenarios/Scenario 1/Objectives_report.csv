@@ -1,0 +1,3 @@
+Minimize time to complete all Tasks,472585.0,5.0
+Minimize total Unperformed Penalty Cost of unperformed Tasks,80000.0,5.0
+Minimize transit cost between assigned Tasks based on Transition_Matrices,4190.0,5.0
