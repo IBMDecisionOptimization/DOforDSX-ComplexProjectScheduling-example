@@ -5,5 +5,5 @@
 	"development": [ "Modeling Assistant" ],
 	"category": [ {"DOforDSX":["DO for DSX"]} ],
 	"industry": [ "Manufacturing" ],
-	"abstract": "Complex Project Scheduling."
+	"abstract": "Complex Project Scheduling. Requires you increase memory allocated to Decision Optimization Runtime Environment."
 }
