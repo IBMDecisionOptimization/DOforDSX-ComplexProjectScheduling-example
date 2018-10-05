@@ -1,6 +1,6 @@
 {
 	"provider": ["IBM"], 
-	"name":  "DO for DSX Complex Project Scheduling example" ,
+	"name":  "DO for WS Complex Project Scheduling example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Modeling Assistant" ],
 	"category": [ {"DOforWS":["DO for WS"]} ],
