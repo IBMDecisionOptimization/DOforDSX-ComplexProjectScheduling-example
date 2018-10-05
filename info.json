@@ -3,7 +3,7 @@
 	"name":  "DO for DSX Complex Project Scheduling example" ,
 	"model": [ "CPLEX" ],
 	"development": [ "Modeling Assistant" ],
-	"category": [ {"DOforDSX":["DO for DSX"]} ],
+	"category": [ {"DOforWS":["DO for WS"]} ],
 	"industry": [ "Manufacturing" ],
 	"abstract": "Complex Project Scheduling. Requires you increase memory allocated to Decision Optimization Runtime Environment."
 }
