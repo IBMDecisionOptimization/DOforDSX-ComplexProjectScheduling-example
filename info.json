@@ -1,7 +1,7 @@
 {
 	"provider": ["IBM"], 
 	"name":  "DO for WS Complex Project Scheduling example" ,
-	"model": [ "CPLEX" ],
+	"model": [ "CPO" ],
 	"development": [ "Modeling Assistant" ],
 	"category": [ {"DOforWS":["DO for WS"]} ],
 	"industry": [ "Manufacturing" ],
